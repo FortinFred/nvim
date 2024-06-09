@@ -1,2 +1,2 @@
-require 'vim-options'
-require 'init-lazy'
+require("josean.core")
+require("josean.lazy")
